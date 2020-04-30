@@ -1,0 +1,41 @@
+
+.outter_layer{
+    margin: 0px auto;
+    display: flex;
+    flex-wrap: wrap;
+    width:600px;
+    height: 500px;
+  
+   
+  
+}
+.one{
+    background: red;
+    border: 1px solid black;
+    border-radius: 300px 0px 0px 0px;
+    padding: 5px;
+    padding: 85px;
+    width:90px;
+   
+}
+.two{
+    background:green;
+    border: 1px solid black;
+    border-radius: 0px 300px 0px 0px;
+    width:90px;
+    padding: 85px;
+}
+.three{
+    background: blue;
+    border: 1px solid black;
+    border-radius: 0px 0px 0px 300px;
+    width:90px;
+    padding: 85px;
+}
+.four{
+    background:orange;
+    border: 1px solid black;
+    border-radius: 0px 0px 300px 0px;
+    width:90px;
+    padding: 85px;
+}
